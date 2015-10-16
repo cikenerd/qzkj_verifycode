@@ -9,7 +9,7 @@
 3.图片转换为黑白   
 4.将四个字符切割为单个字符   
 5.将字符与模板比较(chars_binary.py为字符的getdata()得到的list)，不同像素点最少为该字符。<br />
-更详细的分析见blog：[利用python的PIL库识别强智科技教务系统验证码]（http://blog.cikenerd.com/2015/01/31/%E5%88%A9%E7%94%A8python%E7%9A%84PIL%E5%BA%93%E8%AF%86%E5%88%AB%E5%BC%BA%E6%99%BA%E7%A7%91%E6%8A%80%E6%95%99%E5%8A%A1%E7%B3%BB%E7%BB%9F%E9%AA%8C%E8%AF%81%E7%A0%81/）  
+更详细的分析见blog：[利用python的PIL库识别强智科技教务系统验证码](http://blog.cikenerd.com/2015/01/31/%E5%88%A9%E7%94%A8python%E7%9A%84PIL%E5%BA%93%E8%AF%86%E5%88%AB%E5%BC%BA%E6%99%BA%E7%A7%91%E6%8A%80%E6%95%99%E5%8A%A1%E7%B3%BB%E7%BB%9F%E9%AA%8C%E8%AF%81%E7%A0%81/)   
 
 ###### 代码快说明：    
 qzkj_verifycode
